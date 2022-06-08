@@ -1,5 +1,8 @@
+#SUMIT SAHA
+#M.SC IN DATA SCIENCE
+#NEWTON RAPHSON SINGLE VARIABLE WITH GRAPH
 
-from ssl import ALERT_DESCRIPTION_PROTOCOL_VERSION
+
 import numpy as np
 import matplotlib.pyplot as plt
 
